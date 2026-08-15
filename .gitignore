@@ -18,7 +18,6 @@ ENV/
 !.env.example
 
 # Model artifacts and generated data
-*.pkl
 *.pickle
 *.joblib
 data/
